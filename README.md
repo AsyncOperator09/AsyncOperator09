@@ -55,7 +55,7 @@ Each topic repository includes:
 
 This portfolio is concept-driven rather than assignment-driven.
 
-I do not publish graded solutions or course materials that would violate academic integrity policies. :contentReference[oaicite:0]{index=0} :contentReference[oaicite:1]{index=1}  
+I do not publish graded solutions or course materials that would violate academic integrity policies.
 
 Instead, I publish:
 - Original concept summaries
