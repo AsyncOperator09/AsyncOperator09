@@ -1,103 +1,80 @@
-# Hi, I’m Mark 👋
+# Mark Campbell
 
-I’ve been a **self-taught programmer for 10+ years**, and I’m now pursuing a **Computer Science degree** to strengthen and formalize the foundation behind what I’ve built in practice.
+Software engineer with 10+ years of self-taught programming experience, currently pursuing a Computer Science degree to formalize and deepen my foundation in algorithms, data structures, and systems thinking.
 
-This portfolio documents that journey — translating coursework into real-world engineering skills, with measurable growth and structured reflection.
-
----
-
-## Start here
-
-| What | Link |
-|---|---|
-| 🧭 Hub (overview + navigation) | TODO: link to `cs-learning-hub` |
-| 🌱 Java Foundations (C155) | TODO: link to `csci-c155-java-foundations` |
-| 🧱 OOP + Data Structures (C201) | TODO: link to `csci-c201-java-oop-ds` |
-| 📈 Grades + Outcomes | TODO: link to `cs-metrics-and-outcomes` |
+This profile documents that progression in a structured, concept-first format.
 
 ---
 
-## Why I’m Doing This
+## Portfolio Overview
 
-After a decade of practical programming experience, I realized:
-
-- I could build things.
-- I could debug and ship.
-- But I wanted deeper theoretical clarity.
-- I wanted stronger algorithmic thinking.
-- I wanted formal data structure understanding.
-- I wanted to remove blind spots in fundamentals.
-
-This degree is not a reset — it’s an upgrade.
+| Area | Repository |
+|------|------------|
+| 🧭 Learning Hub (navigation + concept map) | TODO: link to `cs-learning-hub` |
+| 🌱 Java Foundations (Programming I) | TODO: link to `csci-c155-java-foundations` |
+| 🧱 OOP + Data Structures (Programming II) | TODO: link to `csci-c201-java-oop-ds` |
+| 📈 Academic Outcomes & Performance Metrics | TODO: link to `cs-metrics-and-outcomes` |
 
 ---
 
-## What I’m strengthening
+## Professional Context
 
-I’m focusing intentionally on:
+For over a decade, I’ve built software through practical experience.  
+Pursuing a CS degree allows me to:
 
-- **Problem solving & algorithm design**
-- **Control flow mastery**
-- **Function decomposition & abstraction**
-- **Data structures** (arrays → linked lists → tradeoffs)
-- **Object-oriented design & encapsulation**
-- **Memory models & references**
-- **File I/O & structured input/output**
+- Strengthen algorithmic rigor
+- Improve data structure fluency
+- Formalize abstraction and object-oriented design
+- Develop deeper understanding of memory and performance tradeoffs
+- Remove theoretical blind spots
 
-Each concept is documented in my repos with:
-- Plain-language explanations
-- Mental models
-- Common mistakes
-- Real-world mapping
-- Personal reflection
+This is an intentional refinement of an existing skill set — not an introduction to programming.
 
 ---
 
-## How this portfolio is organized
+## Areas of Focus
 
-This is not a dump of assignments.
+- Algorithmic problem solving  
+- Control flow and structured logic  
+- Functional decomposition  
+- Object-oriented design and encapsulation  
+- Memory references and dynamic structures  
+- Searching and sorting strategies  
+- File I/O and structured data handling  
 
-It is a structured learning system:
-
-- Concepts are documented independently of homework.
-- Growth is tracked through reflection.
-- Real-world applications are mapped explicitly.
-- Academic performance trends are recorded transparently.
-
-The goal is clarity, not clutter.
+Each topic repository includes:
+- Concept explanations in plain language  
+- Tradeoff analysis  
+- Real-world applicability  
+- Reflection on learning adjustments  
+- Performance trends across assessments  
 
 ---
 
-## Integrity & Academic Standards
+## Documentation Philosophy
 
-I do **not** publish graded assignment solutions or any material that would violate course policies on unauthorized assistance or sharing.
+This portfolio is concept-driven rather than assignment-driven.
+
+I do not publish graded solutions or course materials that would violate academic integrity policies. :contentReference[oaicite:0]{index=0} :contentReference[oaicite:1]{index=1}  
 
 Instead, I publish:
-- Original explanations
-- My own diagrams and summaries
-- Pseudocode or fresh examples
-- Learning reflections and process adjustments
+- Original concept summaries
+- Independent examples
+- Design notes
+- Process refinements
+- Performance analysis
 
-This keeps the portfolio valuable and academically honest. :contentReference[oaicite:0]{index=0} :contentReference[oaicite:1]{index=1}
-
----
-
-## Current Focus
-
-- Deepening data structure intuition
-- Improving algorithm speed under test constraints
-- Writing clearer technical explanations
-- Tightening abstraction boundaries in OOP design
+The goal is to demonstrate understanding, not replicate coursework.
 
 ---
 
-## How I Think
+## Current Development Priorities
 
-- Clarity over cleverness.
-- Fundamentals over shortcuts.
-- Systems thinking over isolated fixes.
-- Reflection over repetition.
+- Improving time efficiency under constrained testing environments  
+- Strengthening data structure intuition beyond implementation mechanics  
+- Writing clearer technical explanations  
+- Designing cleaner abstraction boundaries  
 
 ---
 
-If you're also formalizing self-taught experience through structured CS learning, I’d be glad to connect.
+If you're reviewing this profile, the best place to start is the Learning Hub repository.
