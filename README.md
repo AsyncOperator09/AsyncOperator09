@@ -1,7 +1,8 @@
 # Hi, I’m Mark 👋
 
-I’m building a **Computer Science learning portfolio** that translates coursework into **real-world engineering skills**.  
-My goal: learn the fundamentals deeply, document them clearly, and show measurable progress over time.
+I’ve been a **self-taught programmer for 10+ years**, and I’m now pursuing a **Computer Science degree** to strengthen and formalize the foundation behind what I’ve built in practice.
+
+This portfolio documents that journey — translating coursework into real-world engineering skills, with measurable growth and structured reflection.
 
 ---
 
@@ -16,63 +17,87 @@ My goal: learn the fundamentals deeply, document them clearly, and show measurab
 
 ---
 
-## What I’m learning (and why it matters)
+## Why I’m Doing This
 
-I’m focusing on the skills that show up everywhere in production software:
+After a decade of practical programming experience, I realized:
 
-- **Problem solving & algorithms** → turning requirements into step-by-step logic
-- **Control flow** (conditionals, loops) → decision-making and automation
-- **Functions & decomposition** → building maintainable, testable logic
-- **Data structures** (arrays → linked lists) → performance, memory, tradeoffs
-- **Object-oriented design** (classes, encapsulation) → clean boundaries & change-friendly code
-- **I/O and files** → working with real inputs, outputs, and persistence
+- I could build things.
+- I could debug and ship.
+- But I wanted deeper theoretical clarity.
+- I wanted stronger algorithmic thinking.
+- I wanted formal data structure understanding.
+- I wanted to remove blind spots in fundamentals.
+
+This degree is not a reset — it’s an upgrade.
+
+---
+
+## What I’m strengthening
+
+I’m focusing intentionally on:
+
+- **Problem solving & algorithm design**
+- **Control flow mastery**
+- **Function decomposition & abstraction**
+- **Data structures** (arrays → linked lists → tradeoffs)
+- **Object-oriented design & encapsulation**
+- **Memory models & references**
+- **File I/O & structured input/output**
+
+Each concept is documented in my repos with:
+- Plain-language explanations
+- Mental models
+- Common mistakes
+- Real-world mapping
+- Personal reflection
 
 ---
 
 ## How this portfolio is organized
 
-This isn’t a “dump of school files.” It’s a **concept-first system**:
+This is not a dump of assignments.
 
-- **Topics are documented as concepts** (what it is, how it works, common mistakes, real-world use)
-- **Reflections track growth** (what I struggled with, what fixed it, what I’d do differently now)
-- **Real-world mapping connects theory to practice** (where this concept shows up in software teams)
-- **Outcomes show performance trends** (grades/breakdowns + what they taught me)
+It is a structured learning system:
+
+- Concepts are documented independently of homework.
+- Growth is tracked through reflection.
+- Real-world applications are mapped explicitly.
+- Academic performance trends are recorded transparently.
+
+The goal is clarity, not clutter.
 
 ---
 
-## Integrity & what I publish (important)
+## Integrity & Academic Standards
 
-I do **not** publish graded assignment solutions or anything that would violate course policies on unauthorized assistance or sharing.  
+I do **not** publish graded assignment solutions or any material that would violate course policies on unauthorized assistance or sharing.
+
 Instead, I publish:
+- Original explanations
+- My own diagrams and summaries
+- Pseudocode or fresh examples
+- Learning reflections and process adjustments
 
-- Concept explanations in my own words  
-- Original diagrams / notes / summaries  
-- Pseudocode or small illustrative examples (not copied submissions)  
-- Reflections on what I learned and how I improved  
-
-This keeps the portfolio useful **and** academically honest. :contentReference[oaicite:2]{index=2} :contentReference[oaicite:3]{index=3}
-
----
-
-## Current focus
-
-Right now I’m working on:
-- Strengthening fundamentals (clear logic, clean decomposition)
-- Improving speed and accuracy on problems under time constraints
-- Building a stronger mental model for memory + data structures
-- Writing clearer documentation (so future-me can learn faster)
+This keeps the portfolio valuable and academically honest. :contentReference[oaicite:0]{index=0} :contentReference[oaicite:1]{index=1}
 
 ---
 
-## A quick note on how I work
+## Current Focus
 
-- I prefer **clarity over cleverness**
-- I write things down until the concept is explainable in plain language
-- I treat mistakes as data and adjust my process
+- Deepening data structure intuition
+- Improving algorithm speed under test constraints
+- Writing clearer technical explanations
+- Tightening abstraction boundaries in OOP design
 
 ---
 
-## Connect
+## How I Think
 
-If you’re exploring similar CS fundamentals or want to compare learning approaches, feel free to reach out:
-- TODO: add preferred contact (LinkedIn / email / etc.)
+- Clarity over cleverness.
+- Fundamentals over shortcuts.
+- Systems thinking over isolated fixes.
+- Reflection over repetition.
+
+---
+
+If you're also formalizing self-taught experience through structured CS learning, I’d be glad to connect.
